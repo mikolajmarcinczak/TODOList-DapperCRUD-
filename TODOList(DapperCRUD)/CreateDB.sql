@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[TodoListItems]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [AddDate] DATETIME NOT NULL, 
+    [Title] NVARCHAR(200) NOT NULL, 
+    [isDone] BIT NOT NULL DEFAULT 0
+)
