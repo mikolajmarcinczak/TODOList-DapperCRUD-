@@ -4,6 +4,8 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Dapper;
+using Dapper.Contrib.Extensions;
 using TODOList_DapperCRUD_.Helpers;
 using TODOList_DapperCRUD_.Models;
 

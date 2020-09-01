@@ -179,3 +179,123 @@ System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członk
    w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
    w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
    w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:03 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:03 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:14 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:50 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:56 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:05:56 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:06:34 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:06:34 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:06:41 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:06:41 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:08:33 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
+
+01.09.2020 15:08:33 :
+System.Runtime.InteropServices.COMException (0x80020003): Nie znaleziono członka grupy. (Wyjątek od HRESULT: 0x80020003 (DISP_E_MEMBERNOTFOUND))
+   w System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   w Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(Int32 hr, Int32[] expectedHRFailure)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.Window.get_ProjectItem()
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.<get_ProjectItem>b__55_0()
+   w Microsoft.VisualStudio.Shell.ThreadHelper.Invoke[TResult](Func`1 method)
+   w Microsoft.VisualStudio.Platform.WindowManagement.DTE.WindowBase.get_ProjectItem()
+   w DevTracker.DevTrackerToolWinControl.WindowsEvents_WindowActivated(Window gotFocus, Window lostFocus) w C:\Users\KurtG\Documents\Visual Studio 2017\Projects\DevTracker\DevTracker\DevTrackerToolWinDteEvents.cs:wiersz 697
