@@ -14,7 +14,7 @@ namespace TODOList_DapperCRUD_.Models
             using (var db = DBHelper.GetConnection())
             {
                 this.EditableItem = new TodoListItem();
-                this.TodoItems = db.Query<TodoListItem>("SELECT * FROM TodoListItems ORDER BY AddDate DESC").ToList();
+                this.TodoItems = db.Query<TodoListItem>("SELECT * FROM TodoListItems ORDER BY AddDate DESC").ToList(); //Dapper query method
             }
         }
 

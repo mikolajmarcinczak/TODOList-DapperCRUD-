@@ -1,0 +1,63 @@
+﻿@model TODOList_DapperCRUD_.Models.TodoListViewModel
+@(ViewBag.Title = "TODO List")
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>@ViewBag.Title</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <style>
+            body {
+                margin: 40px auto;
+            }
+            h1 {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="table-responsive">
+                <h1>To Do:</h1>
+                <table class="table table-striped table-bordered table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th colspan="3">
+                                @using(var form = Html.BeginForm("CreateUpdate", "Home", FormMethod.Post))
+                                {
+                                    @Html.HiddenFor(model => model.EditableItem.Id)
+                                    <div class="input-group">
+                                        @Html.TextBoxFor(model => model.EditableItem.Title, new { @class = "form-control" })
+                                        <div class="input-group-append">
+                                            <button type="submit" class="btn btn-success">@(Model.EditableItem.Id > 0 ? "Update" : "Add")</button>
+                                        </div>
+                                    </div>
+                                    @Html.ValidationSummary()
+                                }
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var item in Model.TodoItems)
+                        {
+                            <tr>
+                                <td>
+                                    <input type="checkbox" checked="@item.isDone" onclick="window.location.href = '/Home/ToggleIsDone/@item.Id';" />
+                                    <a href="/Home/Edit/@item.Id">
+                                        @item.Title
+                                    </a>
+                                </td>
+                                <td class="text-right">
+                                    @item.AddDate.ToShortDateString()
+                                </td>
+                                <td class="text-center">
+                                    <a href="/Home/Delete/@item.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-danger">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
