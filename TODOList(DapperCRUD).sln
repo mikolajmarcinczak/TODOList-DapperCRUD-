@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOList(DapperCRUD)", "TODOList(DapperCRUD)\TODOList(DapperCRUD).csproj", "{85CED82A-7428-484A-9225-ECEB415DD3D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CED82A-7428-484A-9225-ECEB415DD3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CED82A-7428-484A-9225-ECEB415DD3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CED82A-7428-484A-9225-ECEB415DD3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CED82A-7428-484A-9225-ECEB415DD3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AFEAB1D-5CB5-4FA7-9FDF-EB4BBD2B7C19}
+	EndGlobalSection
+EndGlobal

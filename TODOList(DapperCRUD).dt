@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT0S" SolutionTotalViewTime="PT0S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\mikol\Desktop\myshit\siszarp\TODOList(DapperCRUD)</SolutionFolder>
+  <SolutionCreattionDate>2020-09-01T12:40:59.1482064+02:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\mikol\Desktop\myshit\siszarp\TODOList(DapperCRUD)\TODOList(DapperCRUD)\TODOList(DapperCRUD).csproj</ProjectName>
+      <CreatedDate>2020-09-01T12:40:55.1673877+02:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList />
+  <TotalTimeList />
+  <HistoryTimeList />
+</DevTrackerData>
